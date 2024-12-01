@@ -11,6 +11,7 @@ Q1: In order to obtain more accurate heart rate values, the sensor must be sampl
 A：Use millis() instead of delay() to control the time interval of data collection without blocking other tasks in the main loop.
 
 
+
 Q2: After adding the OLED display, the sensor can no longer calculate the heart rate properly.
 
 A: OLED and sensor share an I2C wire, and the refresh of OLED screen interferes with the heart rate detection of sensor.

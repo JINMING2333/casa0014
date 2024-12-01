@@ -6,7 +6,8 @@ Q1: I defined a new topic to control the lights. I could see the messages I publ
 A: Subscribers can only receive the messages that are published to a topic they have set.
 
 ## some challenges
-Q1: In order to obtain more accurate heart rate values, the sensor must be sampled at a high frequency. However, if the sampling frequency is too fast, the reading will be too fast. If delay() is added, it will take a long time to obtain data.</b>
+Q1: In order to obtain more accurate heart rate values, the sensor must be sampled at a high frequency. However, if the sampling frequency is too fast, the reading will be too fast. If delay() is added, it will take a long time to obtain data.
+
 A：Use millis() instead of delay() to control the time interval of data collection without blocking other tasks in the main loop.
 
 

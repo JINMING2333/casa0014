@@ -9,7 +9,7 @@ I have always been interested in the built environment and human health, so I wa
    Used for data collection and remote monitoring, when the patient's heart rate exceeds the normal threshold, the LED lights up red to alarm.
 2) Fitness Tracking
    Use LED to indicate exercise intensity, such as blue means need to increase exercise intensity and red means reduce it.
-3）Emotion Regulation
+3) Emotion Regulation
    Create a soothing environment through warm and cool tones or breathing light effects to help users relax.
 
 ## Components

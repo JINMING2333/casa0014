@@ -2,7 +2,7 @@
 A device to monitor the health statues of users and create a comfortable light environment for them.
 
 ## Inspiration
-I have always been interested in the built environment and human health, so I wanted to focus on them. I want to make this device as an extension of the coursework of casa0016, a smart chair that helps users develop healthy sitting habits, and together they will create a comfortable working and living environment for people.
+I have always been interested in the built environment and human health, so I want to focus on them. I make this device as an extension of the coursework of casa0016, a smart chair that helps users develop healthy sitting habits, and together they will create a comfortable working and living environment for people.
 
 ### Current Application Scenarios
 1) Medical Assistance

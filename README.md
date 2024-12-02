@@ -14,19 +14,19 @@ I have always been interested in the built environment and human health, so I wa
 
 ## Components
 1) Arduino MKR 1010;
-2) MAX30102 sensor;
-   1] The sensor can monitor IR value(infrared reflection value) and temperature. The IR value reflects the change of blood flow, which needs to be further calculated to get the heart rate. I referred to the heart rate example of its library.
+2) MAX30102 sensor - 
+   The sensor can monitor IR value(infrared reflection value) and temperature. The IR value reflects the change of blood flow, which needs to be further calculated to get the heart rate. I referred to the heart rate example of its library.
 3) OLED display;
 4) Jump wires;
 
 ## Current modes
 1) Health status monitor mode: LED color changes can reflect different heart rate ranges.
-   1] Blue indicates a lower heart rate(40-60 BPM).
-   2] Yellow indicates a normal heart rate(60-110 BPM).
-   3] Red indicates a high heart rate(110-140 BPM).
+   1) Blue indicates a lower heart rate(40-60 BPM).
+   2) Yellow indicates a normal heart rate(60-110 BPM).
+   3) Red indicates a high heart rate(110-140 BPM).
 2) Relaxation mode: Adjust the lighting according to different body temperature ranges to create a relaxing atmosphere.
-   1] when temperature is low, LED shows warm color gradients. 
-   2] When temperature is high, LED shows cool color gradients;
+   1) when temperature is low, LED shows warm color gradients. 
+   2) When temperature is high, LED shows cool color gradients;
    
 PS: Switch mode by taping the surface of the sensor(when my finger approaches the sensor, the infrared reflection value changes greatly).
 

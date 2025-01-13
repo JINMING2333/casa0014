@@ -36,11 +36,11 @@ An IoT device, no matter how advanced its technological capabilities, cannot ful
 
 <table>
   <tr>
-    <th>Component</th>
-    <th>Image</th>
-    <th>Function</th>
-    <th>Wiring</th>
-    <th>Library</th>
+    <th width="15%">Component</th>
+    <th width="20%">Image</th>
+    <th width="25%">Function</th>
+    <th width="25%">Wiring</th>
+    <th width="15%">Library</th>
   </tr>
   <tr>
     <td>MAX30102 Sensor</td>

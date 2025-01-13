@@ -4,10 +4,23 @@ A device to monitor the health statues of users and create a comfortable light e
 
 ## Inspiration
 In the IoT market, smart home devices and wearable medical equipment have always been among the most popular areas. My design philosophy has always been centered on a people-oriented approach. A successful IoT device not only presents technical challenges but also requires careful consideration of social and user needs. During lectures, I learned that IoT devices can improve our quality of life in countless ways. However, the current IoT market has not met expectations or reached its full potential. I believe this is because many products fail to integrate seamlessly into people's daily lives and lack a truly user-centered design.
-![LumiHealth Device](images/health.jpg)
-*Fig.1 Blood oxygen monitor*  ![System Setup](images/fit%20monitor.jpg)
-*Fig.2 Sports bracelet* ![System Setup](images/smart_home.jpg)
-*Fig.3 Smart Home Device*
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="images/health.jpg" alt="Blood oxygen monitor" width="200"/><br/>
+      <em>Fig.1 Blood oxygen monitor</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="images/fit%20monitor.jpg" alt="Sports bracelet" width="200"/><br/>
+      <em>Fig.2 Sports bracelet</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="images/smart_home.jpg" alt="Smart Home Device" width="200"/><br/>
+      <em>Fig.3 Smart Home Device</em>
+    </td>
+  </tr>
+</table>
 
 An IoT device, no matter how advanced its technological capabilities, cannot fulfill its purpose if users find it difficult or unappealing to use. This insight inspired me to design Lumi_Health, a health monitoring and environmental optimization system. Lumi_Health is dedicated to keeping users at the core of its design, aiming to enhance user experiences and improve quality of life through simplicity and accessibility.
 

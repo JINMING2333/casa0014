@@ -185,3 +185,7 @@ In the process of testing, the serial port monitor of Arduino IDE is used to mon
   </tr>
 </table>
 
+# Achievements
+https://github.com/user-attachments/assets/67e5ef44-76ce-48d3-a4db-6cb20c57eb6c
+
+

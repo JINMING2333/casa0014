@@ -33,11 +33,58 @@ An IoT device, no matter how advanced its technological capabilities, cannot ful
    Create a soothing environment through warm and cool tones or breathing light effects to help users relax.
 
 ## Components
-1) Arduino MKR 1010;
-2) MAX30102 sensor - 
-   The sensor can monitor IR value(infrared reflection value) and temperature. The IR value reflects the change of blood flow, which needs to be further calculated to get the heart rate. I referred to the heart rate example of its library.
-3) OLED display;
-4) Jump wires;
+
+<table>
+  <tr>
+    <th>Component</th>
+    <th>Image</th>
+    <th>Function</th>
+    <th>Wiring</th>
+    <th>Library</th>
+  </tr>
+  <tr>
+    <td>MAX30102 Sensor</td>
+    <td align="center">
+      <img src="images/sensor.jpg" alt="MAX30102 Sensor" width="150"/>
+    </td>
+    <td>
+      - Heart rate monitoring<br/>
+      - Blood oxygen level detection<br/>
+      - Temperature sensing<br/>
+      - IR reflection value measurement
+    </td>
+    <td>
+      - VIN → 3.3V<br/>
+      - GND → GND<br/>
+      - SCL → SCL<br/>
+      - SDA → SDA
+    </td>
+    <td>
+      - SparkFun MAX3010x library<br/>
+      - Wire.h
+    </td>
+  </tr>
+  <tr>
+    <td>OLED Display</td>
+    <td align="center">
+      <img src="images/OLED1.jpg" alt="OLED Display" width="150"/>
+    </td>
+    <td>
+      - Real-time data display<br/>
+      - Mode status indication<br/>
+    </td>
+    <td>
+      - VCC → 3.3V<br/>
+      - GND → GND<br/>
+      - SCL → SCL<br/>
+      - SDA → SDA
+    </td>
+    <td>
+      - Adafruit_SSD1306<br/>
+      - Adafruit_GFX
+    </td>
+  </tr>
+</table>
 
 ## Current modes
 1) Health status monitor mode: LED color changes can reflect different heart rate ranges.

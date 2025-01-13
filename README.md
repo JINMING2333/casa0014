@@ -3,7 +3,13 @@ A device to monitor the health statues of users and create a comfortable light e
 ![LumiHealth Device](images/show.jpg)
 
 ## Inspiration
-I have always been interested in the built environment and human health, so I want to focus on them. I make this device as an extension of the coursework of casa0016, a smart chair that helps users develop healthy sitting habits, and together they will create a comfortable working and living environment for people.
+In the IoT market, smart home devices and wearable medical equipment have always been among the most popular areas. My design philosophy has always been centered on a people-oriented approach. A successful IoT device not only presents technical challenges but also requires careful consideration of social and user needs. During lectures, I learned that IoT devices can improve our quality of life in countless ways. However, the current IoT market has not met expectations or reached its full potential. I believe this is because many products fail to integrate seamlessly into people's daily lives and lack a truly user-centered design.
+![LumiHealth Device](images/health.jpg)
+*Fig.1 Blood oxygen monitor*  ![System Setup](images/fit%20monitor.jpg)
+*Fig.2 Sports bracelet* ![System Setup](images/smart_home.jpg)
+*Fig.3 Smart Home Device*
+
+An IoT device, no matter how advanced its technological capabilities, cannot fulfill its purpose if users find it difficult or unappealing to use. This insight inspired me to design Lumi_Health, a health monitoring and environmental optimization system. Lumi_Health is dedicated to keeping users at the core of its design, aiming to enhance user experiences and improve quality of life through simplicity and accessibility.
 
 ### Current Application Scenarios
 1) Medical Assistance
